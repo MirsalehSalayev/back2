@@ -1,0 +1,13 @@
+.navbarContainer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+    .navbarComps {
+        display: flex;
+        width:500px;
+        justify-content: space-around;
+
+
+    }
+}
